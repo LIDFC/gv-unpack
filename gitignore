@@ -1,0 +1,4 @@
+*.gv
+*.exe
+extracted/
+__pycache__/
